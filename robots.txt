@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://surat4.pages.dev/sitemap.xml
